@@ -1,2 +1,5 @@
-# design-pattern-learning
-Learning for design-pattern
+##设计模式DEMO
+###创键型设计模式
+* 简单工厂模式
+* 工厂方法模式
+* 抽象工厂模式
